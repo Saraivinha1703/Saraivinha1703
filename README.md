@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My Stack
+I'm a Full Stack Junior Developer and here are the technologies that I work with and learn about almost every day:
+- .NET C#
+- React
+
